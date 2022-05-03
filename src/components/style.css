@@ -1,0 +1,39 @@
+.title {
+    display: flex;
+    flex-direction:  row;
+    justify-content:center;
+    align-items: center;
+    }
+    
+    .title h1 {
+    margin-right:80px;
+    
+    }
+ .number {
+    margin-right:-470px
+   
+ }
+.item {
+   display: flex;
+   justify-content:center;
+   align-items: center;
+   gap : 50px;
+   border: 1px solid black;
+   width:500px ;
+} 
+.Lista
+ {
+width: 100%;
+display: flex;
+justify-content:center;
+align-items: center;
+flex-direction: column;
+gap : 10px;
+
+ }
+
+
+
+
+
+
